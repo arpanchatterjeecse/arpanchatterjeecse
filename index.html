@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Arpan Chatterjee </title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="stylesheet" href="internship.css" class="css">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -33,7 +34,7 @@
     <!-- Hero Section -->
     <section class="hero" id="about">
         <div class="hero-particles"></div>
-        <div class="hero-content">
+        <div class="hero-content hero-flex">
             <div class="profile-container">
                 <div class="profile-photo">
                     <div class="blob-effect">
@@ -46,12 +47,14 @@
                     </div>
                 </div>
             </div>
-            <div class="typing-container">
-                <span id="typingText" class="typing-text"></span>
-                <span class="typing-cursor">|</span>
+            <div class="hero-text-content">
+                <div class="typing-container">
+                    <span id="typingText" class="typing-text"></span>
+                    <span class="typing-cursor">|</span>
+                </div>
+                <p class="hero-subtitle">Computer Science Engineer </p>
+                <p class="hero-description">Machine Learning, Deep Learning, NLP, LLM and Agentic AI Professional.<br>Vellore Institute of Technology, Vellore.</p>
             </div>
-            <p class="hero-subtitle">Computer Science Engineer </p>
-            <p class="hero-description">Machine Learning, Deep Learning, NLP, LLM and Agentic AI Professional.<br>Vellore Institute of Technology, Vellore.</p>
         </div>
     </section>
 
@@ -177,53 +180,72 @@
         </div>
     </section>
 
-    <!-- Internships Section -->
-    <section class="internships" id="internships">
-        <div class="container">
-            <h2 class="section-title">Internship Experience</h2>
-            <div class="timeline">
-                <div class="timeline-item" data-delay="0">
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3>IEEE Computational Intelligence Society</h3>
-                        <h4>NLP Research Intern</h4>
-                        <span class="timeline-date">Jun 2025 - Aug 2025</span>
-                        <p>Building novel deep-learning architectures for senttiment analysis for low - resource languages</p>
-                    </div>
-                </div>
+<section class="internships" id="internships">
+  <div class="container">
+    <h2 class="section-title">Internship Experience</h2>
+    <div class="timeline">
 
-                <div class="timeline-item" data-delay="200">
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3>I.I.T. Jammu</h3>
-                        <h4>LLMs and Agentic AI Summer Project Intern</h4>
-                        <span class="timeline-date">Jun 2025 - Aug 2025</span>
-                        <p>Developing workflow automations and AI agents for different problem statetments.</p>
-                    </div>
-                </div>
-
-                <div class="timeline-item" data-delay="400">
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3>Ericsson</h3>
-                        <h4>Edge Academia Program Trainee</h4>
-                        <span class="timeline-date">Nov 2024 - Apr 2025</span>
-                        <p>Learnt about 5G, Automattion, Machine Learning and several other industry-ready technology and tools.</p>
-                    </div>
-                </div>
-
-                <div class="timeline-item" data-delay="600">
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3>SmartBridge Pvt Ltd</h3>
-                        <h4>Arttificial Inttelligence Intern</h4>
-                        <span class="timeline-date">May 2024 - Jul 2024</span>
-                        <p>Optimized deep learning models for classification and identifying health of coral reefs using transfer learning methods.</p>
-                    </div>
-                </div>
-            </div>
+      <!-- Item 1: Logo Left -->
+      <div class="timeline-item" data-delay="0">
+        <div class="timeline-marker"></div>
+        <div class="timeline-content logo-left">
+          <div class="logo"><img src="https://cis.ieee.org/images/files/template/cis-logo.png" alt="IEEE Logo" /></div>
+          <div class="text-content">
+            <h3>IEEE Computational Intelligence Society</h3>
+            <h4>NLP Research Intern</h4>
+            <span class="timeline-date">Jun 2025 - Aug 2025</span>
+            <p>Building novel deep-learning architectures for sentiment analysis for low-resource languages.</p>
+          </div>
         </div>
-    </section>
+      </div>
+
+      <!-- Item 2: Logo Right -->
+      <div class="timeline-item" data-delay="200">
+        <div class="timeline-marker"></div>
+        <div class="timeline-content logo-right">
+          <div class="text-content">
+            <h3>I.I.T. Jammu</h3>
+            <h4>LLMs and Agentic AI Summer Project Intern</h4>
+            <span class="timeline-date">Jun 2025 - Aug 2025</span>
+            <p>Developing workflow automations and AI agents for different problem statements.</p>
+          </div>
+          <div class="logo"><img src="https://idp.iitjammu.ac.in/assets/images/logo.png" alt="IIT Jammu Logo" /></div>
+        </div>
+      </div>
+
+      <!-- Item 3: Logo Left -->
+      <div class="timeline-item" data-delay="400">
+        <div class="timeline-marker"></div>
+        <div class="timeline-content logo-left">
+          <div class="logo"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Ericsson_logo.svg" alt="Ericsson Logo" /></div>
+          <div class="text-content">
+            <h3>Ericsson</h3>
+            <h4>Edge Academia Program Trainee</h4>
+            <span class="timeline-date">Nov 2024 - Apr 2025</span>
+            <p>Learned about 5G, automation, machine learning, and various industry-ready tools and technologies.</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Item 4: Logo Right -->
+      <div class="timeline-item" data-delay="600">
+        <div class="timeline-marker"></div>
+        <div class="timeline-content logo-right">
+          <div class="text-content">
+            <h3>SmartBridge Pvt Ltd</h3>
+            <h4>Artificial Intelligence Intern</h4>
+            <span class="timeline-date">May 2024 - Jul 2024</span>
+            <p>Optimized deep learning models for classification and coral reef health detection using transfer learning.</p>
+          </div>
+          <div class="logo"><img src="https://media.licdn.com/dms/image/v2/C510BAQHQCh6ucnJcNA/company-logo_200_200/company-logo_200_200/0/1630601762828/smartbridge_educational_services_pvt_ltd_logo?e=1756339200&v=beta&t=1xpDEjvtHz7sBxpSjLZnXDt9Comk37GDwWK07c3DnqE" alt="SmartBridge Logo" /></div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
 
     <!-- Skills Section -->
     <section class="skills" id="skills">
@@ -416,50 +438,74 @@
     </section>
 
     <!-- Certifications Section -->
-    <section class="certifications" id="certifications">
+    <!-- Certifications Section -->
+    <section id="certifications" class="certifications">
         <div class="container">
             <h2 class="section-title">Certifications</h2>
             <div class="certifications-grid">
-                <a class="cert-card" href="https://drive.google.com/file/d/sample1" target="_blank">
-                    <div class="cert-company">Google</div>
-                    <div class="cert-name">Google Cloud ML Engineer</div>
-                    <div class="cert-date">March 2024</div>
-                </a>
-                <a class="cert-card" href="https://drive.google.com/file/d/sample2" target="_blank">
-                    <div class="cert-company">Google</div>
-                    <div class="cert-name">TensorFlow Developer</div>
-                    <div class="cert-date">February 2024</div>
-                </a>
-                <a class="cert-card" href="https://drive.google.com/file/d/sample3" target="_blank">
-                    <div class="cert-company">Amazon</div>
-                    <div class="cert-name">AWS ML Specialty</div>
-                    <div class="cert-date">January 2024</div>
-                </a>
-                <a class="cert-card" href="https://drive.google.com/file/d/sample4" target="_blank">
-                    <div class="cert-company">Coursera</div>
-                    <div class="cert-name">Deep Learning Specialization</div>
-                    <div class="cert-date">December 2023</div>
-                </a>
-                <a class="cert-card" href="https://drive.google.com/file/d/sample5" target="_blank">
-                    <div class="cert-company">Coursera</div>
-                    <div class="cert-name">NLP Specialization</div>
-                    <div class="cert-date">November 2023</div>
-                </a>
-                <a class="cert-card" href="https://drive.google.com/file/d/sample6" target="_blank">
-                    <div class="cert-company">Udacity</div>
-                    <div class="cert-name">Computer Vision Nanodegree</div>
-                    <div class="cert-date">October 2023</div>
-                </a>
-                <a class="cert-card" href="https://drive.google.com/file/d/sample7" target="_blank">
-                    <div class="cert-company">MLOps Community</div>
-                    <div class="cert-name">MLOps Certification</div>
-                    <div class="cert-date">September 2023</div>
-                </a>
-                <a class="cert-card" href="https://drive.google.com/file/d/sample8" target="_blank">
-                    <div class="cert-company">MIT</div>
-                    <div class="cert-name">AI Ethics Certificate</div>
-                    <div class="cert-date">August 2023</div>
-                </a>
+                <div class="cert-card" data-aos="flip-left">
+                    <div class="cert-logo"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Indian_Space_Research_Organisation_Logo.svg" class="cert-logo-img"></div>
+                    <h3>Google Cloud ML Engineer</h3>
+                    <p class="cert-company">Google</p>
+                    <p class="cert-date">March 2024</p>
+                    <a href="https://drive.google.com/example1" target="_blank" class="cert-link">View Certificate</a>
+                </div>
+                <div class="cert-card" data-aos="flip-left" data-aos-delay="100">
+                    <div class="cert-logo"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" class="cert-logo-img"></div>
+                    <h3>TensorFlow Developer</h3>
+                    <p class="cert-company">Google</p>
+                    <p class="cert-date">February 2024</p>
+                    <a href="https://drive.google.com/example2" target="_blank" class="cert-link">View Certificate</a>
+                </div>
+                <div class="cert-card" data-aos="flip-left">
+                    <div class="cert-logo"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/HP_logo_2012.svg" class="cert-logo-img"></div>
+                    <h3>Google Cloud ML Engineer</h3>
+                    <p class="cert-company">Google</p>
+                    <p class="cert-date">March 2024</p>
+                    <a href="https://drive.google.com/example1" target="_blank" class="cert-link">View Certificate</a>
+                </div>
+                <div class="cert-card" data-aos="flip-left">
+                    <div class="cert-logo"><img src="https://legacy.kodekloud.com/wp-content/uploads/2022/08/Horizontal.svg" class="cert-logo-img"></div>
+                    <h3>Google Cloud ML Engineer</h3>
+                    <p class="cert-company">Google</p>
+                    <p class="cert-date">March 2024</p>
+                    <a href="https://drive.google.com/example1" target="_blank" class="cert-link">View Certificate</a>
+                </div>
+                <div class="cert-card" data-aos="flip-left">
+                    <div class="cert-logo"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Udemy_logo.svg" class="cert-logo-img"></div>
+                    <h3>Google Cloud ML Engineer</h3>
+                    <p class="cert-company">Google</p>
+                    <p class="cert-date">March 2024</p>
+                    <a href="https://drive.google.com/example1" target="_blank" class="cert-link">View Certificate</a>
+                </div>
+                <div class="cert-card" data-aos="flip-left">
+                    <div class="cert-logo"><img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/GeeksForGeeks_logo.png" class="cert-logo-img"></div>
+                    <h3>Google Cloud ML Engineer</h3>
+                    <p class="cert-company">Google</p>
+                    <p class="cert-date">March 2024</p>
+                    <a href="https://drive.google.com/example1" target="_blank" class="cert-link">View Certificate</a>
+                </div>
+                <div class="cert-card" data-aos="flip-left">
+                    <div class="cert-logo"><img src="https://en.wikipedia.org/wiki/File:Vellore_Institute_of_Technology_seal_2017.svg" class="cert-logo-img"></div>
+                    <h3>Google Cloud ML Engineer</h3>
+                    <p class="cert-company">Google</p>
+                    <p class="cert-date">March 2024</p>
+                    <a href="https://drive.google.com/example1" target="_blank" class="cert-link">View Certificate</a>
+                </div>
+                <div class="cert-card" data-aos="flip-left">
+                    <div class="cert-logo"><img src="https://hpi.de/_assets/7b3ba8bb3871137dffa4d9cccacf730f/Images/hpi-logo-white.svg" class="cert-logo-img"></div>
+                    <h3>Google Cloud ML Engineer</h3>
+                    <p class="cert-company">Google</p>
+                    <p class="cert-date">March 2024</p>
+                    <a href="https://drive.google.com/example1" target="_blank" class="cert-link">View Certificate</a>
+                </div>
+                <div class="cert-card" data-aos="flip-left">
+                    <div class="cert-logo"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/1199px-IBM_logo.svg.png" class="cert-logo-img"></div>
+                    <h3>Google Cloud ML Engineer</h3>
+                    <p class="cert-company">Google</p>
+                    <p class="cert-date">March 2024</p>
+                    <a href="https://drive.google.com/example1" target="_blank" class="cert-link">View Certificate</a>
+                </div>
             </div>
         </div>
     </section>
