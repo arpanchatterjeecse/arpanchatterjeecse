@@ -971,8 +971,8 @@ a:hover {
 
 .profile-photo {
   position: relative;
-  width: 270px;
-  height: 300px;
+  width: 320px;   /* Increased from 270px */
+  height: 350px;  /* Increased from 300px */
   margin: 0 auto;
 }
 
@@ -980,8 +980,8 @@ a:hover {
   position: absolute;
   top: 0;
   left: 0;
-  width: 100%;
-  height: 100%;
+  width: 320px;   /* Match .profile-photo */
+  height: 320px;  /* Make blob a perfect circle */
   background: linear-gradient(45deg, #2497a4, #6a4c93, #ff6b6b);
   border-radius: 50%;
   animation: blob 8s ease-in-out infinite;
@@ -989,32 +989,13 @@ a:hover {
   will-change: transform, border-radius;
 }
 
-@keyframes blob {
-  0%, 100% {
-    border-radius: 50% 40% 60% 30%;
-    transform: scale(1) rotate(0deg);
-  }
-  25% {
-    border-radius: 60% 50% 40% 70%;
-    transform: scale(1.1) rotate(90deg);
-  }
-  50% {
-    border-radius: 40% 60% 50% 40%;
-    transform: scale(0.9) rotate(180deg);
-  }
-  75% {
-    border-radius: 70% 30% 60% 50%;
-    transform: scale(1.05) rotate(270deg);
-  }
-}
-
 .profile-image {
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 250px;
-    height: 250px;
+    width: 290px;   /* Increased from 250px */
+    height: 290px;  /* Increased from 250px */
     display: flex;
     align-items: center;
     justify-content: center;
@@ -1022,13 +1003,34 @@ a:hover {
 }
 
 .profile-img {
-    width: 260px;
-    height: 260px;
+    width: 290px;   /* Increased from 260px */
+    height: 290px;  /* Increased from 260px */
     object-fit: cover;
     border-radius: 50%;
     border: 4px solid #fff;
     box-shadow: 0 4px 24px rgba(0,0,0,0.12);
     background: #eee;
+}
+
+/* Shift hero-text-content and profile-container to the right */
+.hero-flex {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 64px; /* Increased gap for more space */
+    flex-wrap: wrap;
+    margin-left: 60px; /* Shift the whole hero section to the right */
+}
+
+.hero-text-content {
+    flex: 1 1 320px;
+    min-width: 280px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 18px;
+    margin-left: 40px; /* Shift text content to the right */
 }
 
 /* Optional: style for initials fallback */
@@ -1051,6 +1053,12 @@ a:hover {
   gap: 5px;
   margin-bottom: 20px;
   min-height: 80px;
+}
+
+.typing-container {
+    margin-left: 0;    /* Remove left shift */
+    margin-top: 12px;  /* Keep vertical spacing from name */
+    align-self: flex-start; /* Aligns typing animation to the left */
 }
 
 .typing-text {
@@ -1092,7 +1100,7 @@ a:hover {
 
 .hero-subtitle {
   font-size: 1.5rem;
-  margin-bottom: 10px;
+  margin-bottom: 0; /* Remove bottom margin, spacing is now handled by gap */
   color: rgba(255, 255, 255, 0.8);
   font-weight: 500;
 }
@@ -1101,7 +1109,19 @@ a:hover {
   font-size: 1.2rem;
   color: rgba(255, 255, 255, 0.6);
   max-width: 600px;
-  margin: 0 auto;
+  margin: 0;
+  text-align: left;
+  align-self: flex-start; /* Ensures left alignment */
+}
+
+.hero-text-content {
+    flex: 1 1 320px;
+    min-width: 280px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; /* Ensures left alignment for all children */
+    justify-content: center;
+    gap: 18px; /* Add spacing between name, typing animation, subtitle, and description */
 }
 
 .hero-particles {
@@ -1786,4 +1806,76 @@ section {
     color: #e0e0e0;
     font-size: 1.05rem;
     font-weight: 400;
+}
+
+/* Add or update this keyframes for the blob animation: */
+@keyframes blob {
+  0%,
+  100% {
+    border-radius: 50% 50% 50% 50% / 50% 50% 50% 50%;
+    transform: scale(1) rotate(0deg);
+  }
+  20% {
+    border-radius: 60% 40% 55% 45% / 45% 60% 40% 55%;
+    transform: scale(1.04) rotate(8deg);
+  }
+  40% {
+    border-radius: 50% 60% 40% 60% / 60% 50% 60% 40%;
+    transform: scale(1.08) rotate(-6deg);
+  }
+  60% {
+    border-radius: 60% 50% 60% 50% / 50% 60% 50% 60%;
+    transform: scale(1.04) rotate(6deg);
+  }
+  80% {
+    border-radius: 50% 60% 50% 60% / 60% 50% 60% 50%;
+    transform: scale(1) rotate(-8deg);
+  }
+}
+
+
+
+.cert-logo-img{
+  
+  height: 50px;
+  margin-right: 10px;
+  
+  /* background-color: rgba(255, 255, 255, 0.1); */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cert-link {
+  display: inline-block;
+  background: rgb(5, 130, 155);
+  color: rgb(255, 255, 255);
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  text-decoration: none;
+  font-size: 0.9rem;
+  font-weight: 400em;
+  transition: all 0.3s ease;
+}
+
+.cert-link:hover {
+  transform: scale(1.05);
+  box-shadow: 0 5px 15px rgba(255, 255, 255, 0.4);
+  background: rgb(95, 164, 194);
+  color: rgb(255, 255, 255);
+  font-weight: 600;
+}
+
+/* Make sure your .blob-effect uses the animation */
+.blob-effect {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 320px;
+  height: 320px;
+  background: linear-gradient(45deg, #2497a4, #6a4c93, #ff6b6b);
+  border-radius: 50%;
+  animation: blob 8s ease-in-out infinite;
+  filter: blur(2px);
+  will-change: transform, border-radius;
 }
