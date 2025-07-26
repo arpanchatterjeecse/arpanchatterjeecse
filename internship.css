@@ -1,0 +1,30 @@
+.timeline-content {
+  display: flex;
+  align-items: flex-start;
+  gap: 15px;
+  background: #f9f9f9;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* For left-side logos (odd items) */
+.timeline-content.logo-left {
+  flex-direction: row;
+}
+
+/* For right-side logos (even items) */
+.timeline-content.logo-right {
+  flex-direction: row;
+}
+
+.logo img {
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+  border-radius: 8px;
+}
+
+.text-content {
+  flex: 1;
+}
