@@ -4,8 +4,8 @@
 ---
 
 <p align="center">
-  🎓 **B.Tech CSE** @ *Vellore Institute of Technology* (2022–2026) 
-  💡 Passionate about <b>Artificial Intelligence, Deep Learning, NLP, and Computer Vision</b><br>
+  🎓 **B.Tech CSE** @ Vellore Institute of Technology (2022–2026) <br>
+  💡 Passionate about <b>Artificial Intelligence, Deep Learning, Natural Language Processing, and Computer Vision</b><br>
   🌍 Based in <b>Kolkata, West Bengal, India</b><br>
 </p>
 
@@ -19,7 +19,7 @@
 ---
 
 ### 📫 Reach Me At  
-<p align="left">
+<p align="center">
   <a href="mailto:arpanchatterjeecse@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/arpanchatterjeecse"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://kaggle.com/arpanchatterjee2404"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
@@ -82,15 +82,16 @@
 ---
 
 ## 📊 GitHub Stats  
-![Arpan's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpanchatterjeecse&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpanchatterjeecse&layout=compact&theme=radical)  
 
 ---
 
 ## 📫 Connect with Me  
+<p align='center'>
 - 🌐 [LinkedIn](https://www.linkedin.com/in/arpanchatterjeecse/)  
 - 💻 [GitHub](https://github.com/arpanchatterjeecse)  
 - ✉️ Email: arpanchatterjeecse2@gmail.com  
+</p>
 
 ---
 ⭐️ *“Building AI systems that are explainable, ethical, and impactful.”*  
