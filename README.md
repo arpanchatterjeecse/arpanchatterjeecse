@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  🎓 <b>B.Tech CSE<b> @ Vellore Institute of Technology (2022–2026) <br>
+  🎓 <b>B.Tech CSE<b> @ Vellore Institute of Technology, Vellore (2022–2026) <br>
   💡 Passionate about <b>Artificial Intelligence, Deep Learning, Natural Language Processing, and Computer Vision</b><br>
   🌍 Based in <b>Kolkata, West Bengal, India</b><br>
 </p>
@@ -30,10 +30,10 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 Currently working on **Seizure Detection and Prediction** using Brain–Computer Interfaces.  
-- 🌱 Exploring **Generative AI, Explainable AI (XAI), and Multi-Agent Systems**.  
-- 🎯 Passionate about **AI for Healthcare, Fairness in AI, and Applied Research**.  
-- ⚡ Fun fact: I love blending **research-driven AI** with **real-world applications**.  
+- 🔭 Currently working on **Medical Radiological Data Processing** with Deep Neural Networks and Brain–Computer Interfaces.  
+- 🌱 Actively exploring **Generative AI, Explainable AI (XAI), and Multi-Agent Systems**.  
+- 🎯 Strongly driven to apply **AI in Healthcare, Ethical AI, and Research-Oriented Applications**.  
+- ⚡ Fun fact: I enjoy transforming **research innovations** into **real-world solutions**.  
 
 ---
 
