@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  🎓 **B.Tech CSE** @ Vellore Institute of Technology (2022–2026) <br>
+  🎓 <b>B.Tech CSE<b> @ Vellore Institute of Technology (2022–2026) <br>
   💡 Passionate about <b>Artificial Intelligence, Deep Learning, Natural Language Processing, and Computer Vision</b><br>
   🌍 Based in <b>Kolkata, West Bengal, India</b><br>
 </p>
