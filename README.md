@@ -95,7 +95,7 @@
 <p align='center'>
 - 🌐 [LinkedIn](https://www.linkedin.com/in/arpanchatterjeecse/)  
 - 💻 [GitHub](https://github.com/arpanchatterjeecse)  
-- ✉️ Email: arpanchatterjeecse2@gmail.com  
+- ✉️ Email: arpanchatterjeecse@gmail.com  
 </p>
 
 ---
