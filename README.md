@@ -21,3 +21,71 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpanchatterjeecse&show_icons=true&locale=en" alt="arpanchatterjeecse" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpanchatterjeecse&" alt="arpanchatterjeecse" /></p>
+# 👋 Hi, I'm Arpan Chatterjee  
+
+🎓 B.Tech CSE @ Vellore Institute of Technology (2022–2026)  
+💻 AI/ML | Deep Learning | NLP | Computer Vision | Software Development  
+📍 Based in Kolkata, India  
+
+---
+
+## 🚀 About Me  
+- 🔭 Currently working on **Seizure Detection and Prediction** using Brain–Computer Interfaces.  
+- 🌱 Exploring **Generative AI, Explainable AI (XAI), and Multi-Agent Systems**.  
+- 🎯 Passionate about **AI for Healthcare, Fairness in AI, and Applied Research**.  
+- ⚡ Fun fact: I love blending **research-driven AI** with **real-world applications**.  
+
+---
+
+## 🛠️ Tech Stack  
+**Languages:** C++, C, Java, Python, Golang  
+**Frontend:** React, Angular, HTML, CSS, Bootstrap, Vite, SCSS, jQuery  
+**Backend & DB:** Node.js, Django, Flask, PHP, MongoDB, SQL  
+**AI/ML/DL:** TensorFlow, PyTorch, Keras, NumPy, Pandas, SciKeras, Matplotlib  
+**Tools & Cloud:** AWS, Git, Linux, TypeScript, LangChain, HuggingFace, REST API, n8n  
+
+---
+
+## 📌 Featured Projects  
+- 🧠 [**Seizure Detection & Prediction**](https://github.com/arpanchatterjeecse/eeg-bci-project-)  
+   *Robust architecture for EEG-based seizure detection & prediction.*  
+
+- 🌍 [**Multi-Language Translator & Summarizer Agent**](https://github.com/arpanchatterjeecse/Translator-and-Summarizer-Agent)  
+   *LangChain-based AI agent for translation & summarization across languages.*  
+
+---
+
+## 📑 Research & Publications  
+- 📖 **XAI-based Residual Attention & Bayesian-Optimized Network** – *In Review*  
+- 🌾 **Coalition Formation in Agricultural Cooperatives** – Published @ **WI-IAT 2025**  
+
+---
+
+## 💼 Experience  
+- 🔹 **NLP Research Intern** – IEEE Computational Intelligence Society (2025)  
+- 🔹 **AI Agents & LLMs Intern** – IIT Jammu (2025)  
+- 🔹 **Edge Academia Trainee** – Ericsson (2024–25)  
+- 🔹 **AI Intern** – SmartBridge Ltd (2024)  
+
+---
+
+## 🏆 Achievements  
+- 🥈 **2nd Place** – EcoVision Hackathon, graVITas ’23  
+- 📜 **Career Essentials in Generative AI** – Microsoft & LinkedIn  
+- 📌 Multiple certifications in **AI, ML, and Cloud Technologies**  
+
+---
+
+## 📊 GitHub Stats  
+![Arpan's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpanchatterjeecse&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpanchatterjeecse&layout=compact&theme=radical)  
+
+---
+
+## 📫 Connect with Me  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/arpanchatterjeecse/)  
+- 💻 [GitHub](https://github.com/arpanchatterjeecse)  
+- ✉️ Email: arpanchatterjeecse2@gmail.com  
+
+---
+⭐️ *“Building AI systems that are explainable, ethical, and impactful.”*  
