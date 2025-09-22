@@ -59,10 +59,15 @@
 - **XAI-based Residual Attention and Bayesian-Optimized Network for Medical Classification** *(In Review)*  
   *Arpan Chatterjee, Jyotismita Chaki*  
 
-- **Algorithms for Coalition Formation in the Context of an Agricultural Cooperative**.  
-  *Samriddhi Sarkar, Arpan Chatterjee*.  
-  In: *2025 IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT 2025)*.
+- **Algorithms for Coalition Formation in the Context of an Agricultural Cooperative**  
+  *Samriddhi Sarkar, Arpan Chatterjee*  
+  In: *2025 IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT 2025)*  
 
+- **A Coalitional Game Theoretic Approach for Farmer Producer Organisation**  
+  *Samriddhi Sarkar, Arpan Chatterjee*  
+
+- **Multi-Agent-Based Coalition Formation in an Agricultural Cooperative: A Survey**  
+  *Arpan Chatterjee*
 
 ---
 
