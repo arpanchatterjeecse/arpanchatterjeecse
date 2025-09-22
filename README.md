@@ -54,10 +54,15 @@
    *LangChain-based AI agent for translation & summarization across languages.*  
 
 ---
-
 ## 📑 Research & Publications  
-- 📖 **XAI-based Residual Attention & Bayesian-Optimized Network** – *In Review*  
-- 🌾 **Coalition Formation in Agricultural Cooperatives** – Published @ **WI-IAT 2025**  
+
+- **XAI-based Residual Attention and Bayesian-Optimized Network for Medical Classification** *(In Review)*  
+  *Arpan Chatterjee, Jyotismita Chaki*  
+
+- **Algorithms for Coalition Formation in the Context of an Agricultural Cooperative**.  
+  *Samriddhi Sarkar, Arpan Chatterjee*.  
+  In: *2025 IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT 2025)*.
+
 
 ---
 
