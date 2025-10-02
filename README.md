@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arpan Chatterjee</h1>
+<h1 align="center">What’s good 👋, Arpan Chatterjee here 😎</h1>
 <h3 align="center">🚀 AI/ML/DL & Medical Image Processing Researcher | Computer Science Engineer</h3>
 
 ---
