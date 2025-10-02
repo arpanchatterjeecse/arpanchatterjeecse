@@ -54,7 +54,7 @@
    *LangChain-based AI agent for translation & summarization across languages.*  
 
 ---
-## 📑 Research & Publications  
+## 📑 Research Publications  
 
 - **XAI-based Residual Attention and Bayesian-Optimized Network for Medical Classification** *(In Review)*  
   *Arpan Chatterjee, Jyotismita Chaki*  
@@ -90,12 +90,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpanchatterjeecse&layout=compact&theme=radical)  
 
 ---
-
-## 📫 Connect with Me  
-<p align='center'>
-- 🌐 <a href="https://www.linkedin.com/in/arpanchatterjeecse/" target="_blank">LinkedIn</a>  
-- 💻 <a href="https://github.com/arpanchatterjeecse" target="_blank">GitHub</a>  
-- ✉️ Email: <a href="mailto:arpanchatterjeecse@gmail.com" target="_blank">arpanchatterjeecse@gmail.com</a>  
+## Connect with Me
+<p align="center">
+  🌐 [LinkedIn](https://www.linkedin.com/in/arpanchatterjeecse/)&nbsp;&nbsp;&nbsp;
+  💻 [GitHub](https://github.com/arpanchatterjeecse)&nbsp;&nbsp;&nbsp;
+  ✉️ [Email](mailto:arpanchatterjeecse@gmail.com)
 </p>
 
 ---
