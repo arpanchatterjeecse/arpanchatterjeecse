@@ -93,9 +93,9 @@
 
 ## 📫 Connect with Me  
 <p align='center'>
-- 🌐 [LinkedIn](https://www.linkedin.com/in/arpanchatterjeecse/)  
-- 💻 [GitHub](https://github.com/arpanchatterjeecse)  
-- ✉️ Email: arpanchatterjeecse@gmail.com  
+- 🌐 <a href="https://www.linkedin.com/in/arpanchatterjeecse/" target="_blank">LinkedIn</a>  
+- 💻 <a href="https://github.com/arpanchatterjeecse" target="_blank">GitHub</a>  
+- ✉️ Email: <a href="mailto:arpanchatterjeecse@gmail.com" target="_blank">arpanchatterjeecse@gmail.com</a>  
 </p>
 
 ---
