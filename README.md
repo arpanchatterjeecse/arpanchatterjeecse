@@ -43,7 +43,7 @@
 **Backend & DB:** Node.js, Django, Flask, PHP, MongoDB, SQL  
 **AI/ML/DL:** TensorFlow, PyTorch, Keras, NumPy, Pandas, SciKeras, Matplotlib  
 **Tools & Cloud:** AWS, Git, Linux, TypeScript, LangChain, HuggingFace, REST API, n8n  
-
+**Core Skills:** Machine Learning, Deep Learning, Cloud Computing, Natural Language Processing, Data Science, Data Structures and Algorithms, Operating Systems, Computer Networks 
 ---
 
 ## 📌 Featured Projects  
