@@ -36,15 +36,57 @@
 - ⚡ Fun fact: I enjoy transforming **research innovations** into **real-world solutions**.  
 
 ---
-
 ## 🛠️ Tech Stack  
-**Languages:** C++, C, Java, Python, Golang  
-**Frontend:** React, Angular, HTML, CSS, Bootstrap, Vite, SCSS, jQuery  
-**Backend & DB:** Node.js, Django, Flask, PHP, MongoDB, SQL  
-**AI/ML/DL:** TensorFlow, PyTorch, Keras, NumPy, Pandas, SciKeras, Matplotlib  
-**Tools & Cloud:** AWS, Git, Linux, TypeScript, LangChain, HuggingFace, REST API, n8n  
-**Core Skills:** Machine Learning, Deep Learning, Cloud Computing, Natural Language Processing, Data Science, Data Structures and Algorithms, Operating Systems, Computer Networks 
----
+
+### **Languages**
+- C++
+- C
+- Java
+- Python
+- Golang  
+
+### **Frontend**
+- React  
+- Angular  
+- HTML, CSS, SCSS, Bootstrap  
+- Vite  
+- jQuery  
+
+### **Backend & Databases**
+- Node.js  
+- Django  
+- Flask  
+- PHP  
+- MongoDB  
+- SQL  
+
+### **AI / ML / DL**
+- TensorFlow  
+- PyTorch  
+- Keras  
+- NumPy, Pandas  
+- SciKeras  
+- Matplotlib  
+
+### **Tools & Cloud**
+- AWS  
+- Git  
+- Linux  
+- TypeScript  
+- LangChain  
+- Hugging Face  
+- REST API  
+- n8n  
+
+### **Core Skills**
+- Machine Learning & Deep Learning  
+- Cloud Computing  
+- Natural Language Processing (NLP)  
+- Data Science  
+- Data Structures & Algorithms (DSA)  
+- Operating Systems  
+- Computer Networks  
+
 
 ## 📌 Featured Projects  
 - 🧠 [**Seizure Detection & Prediction**](https://github.com/arpanchatterjeecse/eeg-bci-project-)  
