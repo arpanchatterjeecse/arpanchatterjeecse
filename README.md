@@ -38,54 +38,66 @@
 ---
 ## 🛠️ Tech Stack  
 
-### **Languages**
-- C++
-- C
-- Java
-- Python
-- Golang  
+### 💻 Languages  
+| C++ | C | Java | Python | Golang |
+|:---:|:---:|:---:|:---:|:---:|
+| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) | ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) |
 
-### **Frontend**
-- React  
-- Angular  
-- HTML, CSS, SCSS, Bootstrap  
-- Vite  
-- jQuery  
+---
 
-### **Backend & Databases**
-- Node.js  
-- Django  
-- Flask  
-- PHP  
-- MongoDB  
-- SQL  
+### 🎨 Frontend  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=fff)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=fff)  
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=fff)  
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=fff)  
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=fff)  
 
-### **AI / ML / DL**
-- TensorFlow  
-- PyTorch  
-- Keras  
-- NumPy, Pandas  
-- SciKeras  
-- Matplotlib  
+---
 
-### **Tools & Cloud**
-- AWS  
-- Git  
-- Linux  
-- TypeScript  
-- LangChain  
-- Hugging Face  
-- REST API  
-- n8n  
+### ⚙️ Backend & Databases  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=fff)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=fff)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=fff)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff)  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=fff)  
 
-### **Core Skills**
-- Machine Learning & Deep Learning  
-- Cloud Computing  
-- Natural Language Processing (NLP)  
-- Data Science  
-- Data Structures & Algorithms (DSA)  
-- Operating Systems  
-- Computer Networks  
+---
+
+### 🤖 AI / ML / DL  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=fff)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=fff)  
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=fff)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=fff)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=fff)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=fff)  
+
+---
+
+### ☁️ Tools & Cloud  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=fff)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)  
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=flat-square&logo=chainlink&logoColor=fff)  
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=000)  
+![REST API](https://img.shields.io/badge/REST-02569B?style=flat-square&logo=swagger&logoColor=fff)  
+![n8n](https://img.shields.io/badge/n8n-EA4E34?style=flat-square&logo=n8n&logoColor=fff)  
+
+---
+
+### 🚀 Core Skills  
+- 🧠 Machine Learning & Deep Learning  
+- ☁️ Cloud Computing  
+- 🗣️ Natural Language Processing (NLP)  
+- 📊 Data Science  
+- 🧩 Data Structures & Algorithms (DSA)  
+- 🖥️ Operating Systems  
+- 🌐 Computer Networks  
+
 
 
 ## 📌 Featured Projects  
